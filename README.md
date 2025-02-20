@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxschriebl
 - 👀 I’m interested in learning to code more efficently
-- 🌱 I’m currently learning UE 5.3
+- 🌱 I’m currently learning UE 5.4
 - 💞️ I’m looking to collaborate on anything that sounds cool
 - 📫 How to reach me hello@maxschriebl.at
 - 😄 Pronouns: any
